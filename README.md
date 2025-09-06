@@ -72,4 +72,4 @@ See [Next.js deployment docs](https://nextjs.org/docs/app/building-your-applicat
 ---
 
 Enjoy exploring Sweet Crust!
-# sweet-crust
+
