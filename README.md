@@ -6,6 +6,10 @@ Welcome to **Sweet Crust**, a modern bakery website built with [Next.js](https:/
 
 Sweet Crust is designed to showcase a bakery's menu, story, and team, while providing an easy way for customers to contact for custom orders. The site features a clean, modern UI and delightful transitions powered by Framer Motion.
 
+## Live Demo
+
+Check out the live website: [sweet-crust-website.vercel.app](https://sweet-crust-website.vercel.app/)
+
 ## Technologies Used
 
 - **Next.js**: React framework for fast, scalable web apps
@@ -72,4 +76,3 @@ See [Next.js deployment docs](https://nextjs.org/docs/app/building-your-applicat
 ---
 
 Enjoy exploring Sweet Crust!
-
