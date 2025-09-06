@@ -1,8 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sweet Crust
+
+Welcome to **Sweet Crust**, a modern bakery website built with [Next.js](https://nextjs.org) and [Framer Motion](https://www.framer.com/motion/) for smooth, interactive animations.
+
+## About
+
+Sweet Crust is designed to showcase a bakery's menu, story, and team, while providing an easy way for customers to contact for custom orders. The site features a clean, modern UI and delightful transitions powered by Framer Motion.
+
+## Technologies Used
+
+- **Next.js**: React framework for fast, scalable web apps
+- **Framer Motion**: Animation library for React
+- **next/font**: Optimized font loading
+
+## Project Structure
+
+```
+src/
+├── app/ # Next.js App Router
+│ ├── favicon.ico # Site favicon
+│ ├── globals.css # Global styles
+│ ├── layout.tsx # Root layout
+│ └── page.tsx # Homepage
+│
+└── components/ # Reusable UI components
+├── About.tsx
+├── Contact.tsx
+├── Footer.tsx
+├── Hero.tsx
+├── Menu.tsx
+├── Navbar.tsx
+└── Testimonials.tsx
+```
 
 ## Getting Started
 
-First, run the development server:
+To run the development server:
 
 ```bash
 npm run dev
@@ -14,23 +46,30 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Visit [http://localhost:3000](http://localhost:3000) in your browser to view the site.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Start editing by modifying `app/page.tsx`. Changes are reflected automatically.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Features
+
+- Browse our bakery menu
+- Learn about our story and team
+- Contact us for custom orders
+- Smooth page transitions and animations
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+- [Next.js Documentation](https://nextjs.org/docs) — features and API reference
+- [Learn Next.js](https://nextjs.org/learn) — interactive tutorial
+- [Framer Motion Docs](https://www.framer.com/motion/) — animation API reference
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deployment
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Deploy Sweet Crust easily on [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
-## Deploy on Vercel
+See [Next.js deployment docs](https://nextjs.org/docs/app/building-your-application/deploying) for details.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Enjoy exploring Sweet Crust!
+# sweet-crust
